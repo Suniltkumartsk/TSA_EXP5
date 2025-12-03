@@ -13,7 +13,7 @@ To Illustrates how to perform time series analysis and decomposition on the mont
 5. Display the overall results.
 
 ### PROGRAM:
-```
+```py
 #Import libraries
 import pandas as pd
 import matplotlib.pyplot as plt
